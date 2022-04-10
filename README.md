@@ -43,8 +43,8 @@ The following project is a solution developed for the company Virginia Surveilla
 ## Authors
 
 Contributors names and contact info
-
-Developer: [@cFahd](https://github.com/cfahd/)
+Development Team: Bravo 4
+Lead Developer: [@cFahd](https://github.com/cfahd/)
 
 ## Version History
 * 0.1
