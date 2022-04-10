@@ -26,6 +26,19 @@ The following project is a solution developed for the company Virginia Surveilla
 * Add Employee Form
 ![Screenshot](/Images/add.png)
 
+# Responsive Design
+
+<p float="left">
+  <img src="Images/login_mobile.png" width="250" />
+  <img src="Images/menu.png" width="250" /> 
+  <img src="Images/home_mobile.png" width="250" /> 
+</p>
+
+<p float="left">
+  <img src="Images/profile_mobile.png" width="250" />
+  <img src="Images/add_mobile.png" width="250" />
+  <img src="Images/reminder_mobile.png" width="250" /> 
+</p>
 
 ## Authors
 
